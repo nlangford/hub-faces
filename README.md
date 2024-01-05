@@ -2,7 +2,12 @@
 
 ## Development server
 
+Create a `.env` file from the `.env.example` file and use your API key for pixlab.
+
+Run `npm install`
+
 Run the proxy server `npm run express`
+
 Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Usage
